@@ -1,0 +1,105 @@
+/* CSS DEL MENU*/
+.title{
+    background-image: url(img/Logo_CESDE.jpg);    
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color:rgb(41, 35, 35);
+    margin: auto;
+    text-transform: uppercase;
+    font-family: 'Montserrat' 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 64px;
+}
+
+.navbar-dark .navbar-brand {
+    padding-left: 38px;
+    color:rgb(9, 16, 17);
+    font-size: 30px;
+    
+}
+
+.navbar{
+    background-color:#496e79;
+    font-size: 20px;
+    color: black;
+}
+
+
+.carousel {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.carousel-inner {
+    max-height: 600px;
+}
+
+/*CSS CUERPO DE LA PAGINA*/
+
+.btn1-primary {
+    background-color:#496e79;
+    border-color: #496e79;
+    border-radius: 3px;
+    box-sizing: 40px;
+    padding: 7px 14px;
+    color: rgb(20, 14, 14);
+}
+
+.subtitle-main {
+    background-color: #496e79;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+    color: rgb(8, 13, 14);
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.row-cols-1 {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.card-body {
+    background-color: #496e79;
+}
+
+/*css video*/
+
+.center-video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*css parrafo*/
+
+.parrafo-one {
+    margin: 4%;
+    font-size:18px;
+    font-family: 'parrafo', arial, helvetica;
+
+}
+
+
+
+.carousel-inner{
+color: black;
+text-align: center;
+background-color: black;
+height: 100%;
+width: 100%;
+
+}
+
+.carousel-item{
+
+    color: black;
+text-align: center;
+background-color: black;
+height: 100%;
+width: 100%;
+}
+
+
