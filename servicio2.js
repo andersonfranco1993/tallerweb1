@@ -22,8 +22,8 @@ fetch(uri,parametrosPOST)
     console.log(respuesta) 
     generarToken(respuesta) 
 })
-.catch(function(respuesta){
-    console.log(respuesta)
+.catch(function(error){
+    console.log(error)
 })
 
 function generarToken(respuesta){
